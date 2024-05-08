@@ -1,0 +1,23 @@
+.container {
+    
+    /* Add any styles for the container here */
+}
+
+.heading {
+
+    overflow: hidden; /* Prevent overflow */
+}
+
+.heading img {
+    margin-bottom: 20px;
+    width:100%;
+    object-fit: cover;
+    transition: transform 1s ease; /* Apply transition to the transform property */
+}
+
+
+
+p {
+    text-align: justify;
+}
+
